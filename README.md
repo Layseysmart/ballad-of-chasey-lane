@@ -4,7 +4,7 @@
 # How to install on unix system:
 1. Move script REC.sh to your directory ~/bin/ and rename it to REC
 2. Make script executable with chmod +x ~/bin/REC
-3. Add ~/bin to your PATH, add to your ~/.profile the line PATH=$PATH:~/bin
+3. Add ~/bin to your PATH, add to your ~/.profile the line PATH=$PATH: ~/bin
 4. Run source ~/.profile to apply changes
 
 # Good luck!
